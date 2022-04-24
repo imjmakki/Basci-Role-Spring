@@ -7,8 +7,6 @@ import lombok.*;
 @Data
 @ToString
 public class LoginCredentials {
-
     private String email;
     private String password;
-
 }
